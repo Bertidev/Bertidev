@@ -33,16 +33,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Bertidev&show_icons=true&theme=tokyonight)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bertidev&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bertidev&layout=compact&theme=tokyonight)
-
-## 📊 Estatísticas (fallback)
-![Profile Views](https://komarev.com/ghpvc/?username=Bertidev&color=blue)
-[![Followers](https://img.shields.io/github/followers/Bertidev?style=social)](https://github.com/Bertidev)
-
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bertidev&color=blue)
+## 📊 Estatísticas 
+![Profile Views](https://komarev.com/ghpvc/?username=Bertidev&color=blue)  
+![Followers](https://img.shields.io/github/followers/Bertidev?style=social)  
+![Stars](https://img.shields.io/github/stars/Bertidev?style=social)  
