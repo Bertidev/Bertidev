@@ -26,8 +26,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats-fm2am00iv-lucas-projects-67f6f1b7.vercel.app/api?username=Bertidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats-fm2am00iv-lucas-projects-67f6f1b7.vercel.app/api/top-langs/?username=Bertidev&theme=dark&hide_border=false&layout=compact&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Bertidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://streak-stats.demolab.com/?user=Bertidev&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bertidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Bertidev&icon=0&color=0)](https://visitcount.itsvg.in)
